@@ -1,3 +1,3 @@
 # geo_env
 
-Code for ERSE 394 Geo-environmetal modeling
+Code for ERSE 394 Geo-environmetal modeling and related materials
